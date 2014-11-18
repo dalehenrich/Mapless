@@ -6,8 +6,10 @@ first
 	constraints := Dictionary new 
 					yourself.
 
-	result := self databaseCollection queryOne:[:q| 
-				q where: constraints ].
+	result := self databaseCollection query:[:q| 
+				q 
+					where: constraints;
+					limit: 1].
 				
 	^ (result isNil or:[
 	result isEmpty])
