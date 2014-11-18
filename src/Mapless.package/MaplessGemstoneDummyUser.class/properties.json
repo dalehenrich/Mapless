@@ -1,0 +1,14 @@
+{
+	"category" : "Mapless-Gemstone-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MaplessGemstoneDummyUser",
+	"pools" : [
+		 ],
+	"super" : "MaplessGemstone",
+	"type" : "normal" }
