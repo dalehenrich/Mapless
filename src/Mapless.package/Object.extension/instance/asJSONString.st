@@ -1,4 +1,4 @@
-*Mapless
+*mapless
 asJSONString
 
 	^ String streamContents: [:str |
