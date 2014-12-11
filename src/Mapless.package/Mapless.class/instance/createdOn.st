@@ -3,7 +3,7 @@ createdOn
 
 	| selector expects object|
 
-	selector := #createdOn.
+	selector := 'createdOn'.
 	expects := DateAndTime.
 
 	object := self at: selector asString.
