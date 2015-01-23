@@ -9,6 +9,6 @@ createdOn
 	object := self at: selector asString.
 	object ifNil:[^nil].
 
-	(object maplessIsKindOf: expects) ifTrue:[^object].
+	(object isKindOf: expects) ifTrue:[^object].
 
-	^ self at: selector asString put: (self dateAndTimeAt: selector).
+	^ self at: selector put: (self dateAndTimeAt: selector).

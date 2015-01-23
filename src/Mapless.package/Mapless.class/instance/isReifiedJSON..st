@@ -1,4 +1,4 @@
 testing
 isReifiedJSON: anObject 
-	^ (anObject maplessIsKindOf: JsonObject) or:[
-	anObject maplessIsKindOf: OrderedJsonObject ]
+	^ (anObject isKindOf: JsonObject) or:[
+	anObject isKindOf: OrderedJsonObject ]

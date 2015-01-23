@@ -9,7 +9,7 @@ merge: aMapless
 		removeAllFoundIn: aMapless class keysToExclude;
 		yourself) do:[:aKey| |part|
 			part := aMapless perform: aKey asSymbol.
-			(part maplessIsKindOf: Mapless) ifTrue:[ |subMaplessOrNil|
+			(part isKindOf: Mapless) ifTrue:[ |subMaplessOrNil|
 				subMaplessOrNil := self perform: aKey asSymbol.
 				subMaplessOrNil ifNotNil:[subMaplessOrNil merge: part]].
 			self data at: aKey ifAbsentPut:[part]]

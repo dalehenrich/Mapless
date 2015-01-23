@@ -4,3 +4,9 @@ SystemOrganization addCategory: #'Mapless-Gemstone'!
 SystemOrganization addCategory: #'Mapless-Gemstone-Errors'!
 SystemOrganization addCategory: #'Mapless-Gemstone-Tests'!
 SystemOrganization addCategory: #'Mapless-Models'!
+SystemOrganization addCategory: #'Mapless-Mongo'!
+SystemOrganization addCategory: #'Mapless-Mongo-Errors'!
+SystemOrganization addCategory: #'Mapless-Mongo-Tests'!
+SystemOrganization addCategory: #'Mapless-Redis'!
+SystemOrganization addCategory: #'Mapless-Redis-Errors'!
+SystemOrganization addCategory: #'Mapless-Redis-Tests'!
