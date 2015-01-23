@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"currentClientDynamicVariable" : "SebastianSastre 5/3/2014 17:22:48",
+		"databaseAt:" : "SebastianSastre 5/3/2014 17:22:48",
+		"databaseAt:do:" : "SebastianSastre 5/3/2014 17:22:48",
+		"ifUnavailablePurge:" : "SebastianSastre 5/3/2014 17:22:48",
+		"makeClient" : "SebastianSastre 5/3/2014 17:22:48",
+		"onLogout:" : "SebastianSastre 5/3/2014 17:22:48",
+		"purgeUnavailable" : "SebastianSastre 5/3/2014 17:22:48" } }
