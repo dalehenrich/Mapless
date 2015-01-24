@@ -4,6 +4,7 @@ notifications:
   webhooks:
     urls:
       - https://webhooks.gitter.im/e/c59e6bffa0b41a693676 # GsDevKit/chat (public)
+      - https://webhooks.gitter.im/e/bf0a11f057945ce711ac # GsDevKit/Mapless
     on_success: always # options: [always|never|change] default: always
     on_failure: always  # options: [always|never|change] default: always
     on_start: false     # default: false
