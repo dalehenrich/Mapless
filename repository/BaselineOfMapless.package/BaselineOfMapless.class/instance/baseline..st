@@ -44,7 +44,7 @@ baseline: spec
         package: 'Mapless-GemStone'
           with: [ spec requires: #('Mapless-Core' 'GLASS1') ];
         package: 'Mapless-Tests-GemStone'
-          with: [ spec requires: #('Mapless-Tests-Core') ];
+          with: [ spec requires: #('Mapless-Tests-Core' 'Mapless-GemStone') ];
         package: 'JSON' with: [ spec requires: #('GLASS1') ];
         yourself.
       spec
