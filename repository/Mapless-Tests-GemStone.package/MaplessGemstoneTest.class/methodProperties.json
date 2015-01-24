@@ -3,6 +3,7 @@
 		"lastStoredRun" : "SebastianHeidbrink 10/18/2014 04:40" },
 	"instance" : {
 		"do:" : "SebastianHeidbrink 10/18/2014 04:40",
+		"expectedFailures" : "dkh 01/24/2015 11:57",
 		"setUp" : "SebastianHeidbrink 10/18/2014 04:40",
 		"tearDown" : "SebastianHeidbrink 10/18/2014 04:40",
 		"testComposedAccess" : "SebastianHeidbrink 10/18/2014 04:40",

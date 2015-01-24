@@ -1,3 +1,3 @@
 as yet unclassified
 expectedFailures
-  ^ #(#'testAtomString' #'testStringWithUnicode' #'testWriteAssociation')
+  ^ #(#'testAtomString' #'testStringWithUnicode' #'testWriteAssociation' #'testCtor')

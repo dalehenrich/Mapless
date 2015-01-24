@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"expectedFailures" : "dkh 01/24/2015 11:32",
+		"expectedFailures" : "dkh 01/24/2015 11:46",
 		"json:equals:" : "tonyg 11/29/2005 18:03",
 		"readFrom:" : "tonyg 11/29/2005 18:03",
 		"render:equals:" : "dkh 01/24/2015 11:31",
