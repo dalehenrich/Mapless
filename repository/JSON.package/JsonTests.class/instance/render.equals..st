@@ -1,3 +1,4 @@
 as yet unclassified
 render: anObject equals: aString
-	self assert: (Json render: anObject) = aString
+  | x |
+  self assert: (x := Json render: anObject) = aString
