@@ -18,7 +18,7 @@ GsDeployer deploy: [
     load: #('CI')
 ].
 
-false ifTrue: [
+true ifTrue: [
   "Run all tests in image"
   TravisCISuiteHarness
     value: TestCase suite
