@@ -4,4 +4,4 @@ makeClient
 
 	^ MongoAPI default 
 		open;
-		yourself 
+		yourself

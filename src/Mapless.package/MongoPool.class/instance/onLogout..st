@@ -1,4 +1,4 @@
 reactions
 onLogout: aMongo
 
-	self remove: aMongo 
+	self remove: aMongo

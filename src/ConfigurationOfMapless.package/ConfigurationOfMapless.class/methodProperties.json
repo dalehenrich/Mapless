@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"baseConfigurationClassIfAbsent:" : "sebastianheidbrink 12/10/2014 16:55",
+		"catalogContactInfo" : "sebastianheidbrink 12/10/2014 21:50",
+		"catalogKeywords" : "sebastianheidbrink 12/10/2014 16:56",
+		"ensureMetacello" : "sebastianheidbrink 12/10/2014 16:55",
+		"ensureMetacelloBaseConfiguration" : "sebastianheidbrink 12/10/2014 16:55",
+		"load" : "sebastianheidbrink 12/10/2014 17:01",
+		"project" : "sebastianheidbrink 12/10/2014 16:53" },
+	"instance" : {
+		"baseline13:" : "sebastianheidbrink 12/10/2014 21:50",
+		"beta:" : "sebastianheidbrink 12/10/2014 16:51",
+		"customProjectAttributes" : "sebastianheidbrink 12/10/2014 17:00",
+		"project" : "sebastianheidbrink 12/10/2014 16:58",
+		"version13:" : "sebastianheidbrink 12/10/2014 21:50" } }

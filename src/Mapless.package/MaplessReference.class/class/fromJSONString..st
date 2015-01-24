@@ -1,4 +1,4 @@
 actions
 fromJSONString: aJSONString
 		
-	^ self fromJSONObject: (OrderedJson readFrom: aJSONString readStream) 
+	^ self fromJSONObject: (OrderedJson readFrom: aJSONString readStream)

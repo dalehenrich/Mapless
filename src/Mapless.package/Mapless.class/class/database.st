@@ -1,4 +1,4 @@
 accessing
 database
 
-	^ self subclassResponsibility 
+	^ self subclassResponsibility

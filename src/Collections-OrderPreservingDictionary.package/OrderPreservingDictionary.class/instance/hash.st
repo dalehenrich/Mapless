@@ -1,0 +1,3 @@
+testing
+hash
+	^ dictionary hash

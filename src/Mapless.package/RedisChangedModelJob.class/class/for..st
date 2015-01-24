@@ -3,4 +3,4 @@ for: aMaplessRedisModel
 
 	^ self new
 		initializeOn: aMaplessRedisModel;
-		yourself 
+		yourself

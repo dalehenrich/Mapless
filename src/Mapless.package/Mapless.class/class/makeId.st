@@ -1,4 +1,4 @@
 actions
 makeId
 
-	^ UUID new asString36
+	^ UUID new asString

@@ -6,8 +6,8 @@ find: someConditions
 	result := self databaseCollection query:[:q| 
 				q where: someConditions].
 
-	^ (result isNil and:[
-	result isEmpty])
-		ifTrue: [ #() ]
-		ifFalse: [ self fromJSONObjects: result ]
+	^ result isNil
+		ifTrue: [ Array new ]
+		ifFalse: [ result collect: [ :each| 
+					self fromJSONObject: each asJsonObject ] ]
 		

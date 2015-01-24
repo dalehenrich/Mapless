@@ -6,4 +6,4 @@ destroy
 		
 	self class client remove: self oid.
 	
-	self onDestroyed 
+	self onDestroyed
