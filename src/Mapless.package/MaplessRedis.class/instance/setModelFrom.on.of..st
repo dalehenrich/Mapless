@@ -15,4 +15,4 @@ setModelFrom: aJsonString on: aKey of: aJsonObject
 	
 	 aJsonObject 
 		at: aKey 
-		put: newSubModel 
+		put: newSubModel

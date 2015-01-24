@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"fromAssociations:" : "Igor.Stasenko 1/9/2010 16:51" },
+	"instance" : {
+		"addJsonDifferencesWith:to:" : "PaulDeBruicker 7/17/2014 13:26",
+		"addValueDifferencesWith:to:" : "PaulDeBruicker 7/17/2014 13:11",
+		"at:" : "sebastianheidbrink 12/10/2014 20:54",
+		"doesNotUnderstand:" : "sebastianheidbrink 12/10/2014 20:53",
+		"jsonDifferencesWith:" : "PaulDeBruicker 7/17/2014 13:11",
+		"name" : "rh 2/27/2010 00:03",
+		"value" : "rh 2/27/2010 00:04" } }

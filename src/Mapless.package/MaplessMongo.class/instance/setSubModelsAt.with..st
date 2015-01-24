@@ -24,4 +24,4 @@ setSubModelsAt: aKey with: anObject
 						ifAbsent:[self error: 'Could not find that class'].
 					newSubModel := modelClass fromJSONObject: each.
 					newSubModel setSubModels].
-			self data at: aKey put: newSubModels] 
+			self data at: aKey put: newSubModels]

@@ -7,4 +7,4 @@ asNoSQLValue
 	[bsonFriendly := self asMongoDocument] ifCurtailed:[
 		self data removeKey: '_id' ifAbsent: [ nil ] ] .
 		
-	^ self class stringify: (BSON write: bsonFriendly) 
+	^ self class stringify: (BSON write: bsonFriendly)

@@ -1,4 +1,4 @@
 accessing
 asBSON
 	
-	^ BSON write: self asBSONFriendly 
+	^ BSON write: self asBSONFriendly

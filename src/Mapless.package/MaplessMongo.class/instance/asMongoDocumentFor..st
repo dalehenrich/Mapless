@@ -13,4 +13,4 @@ asMongoDocumentFor: aJsonObject
 			at: k
 			put: storablePart ].
 
-	^ mongoDocument 
+	^ mongoDocument

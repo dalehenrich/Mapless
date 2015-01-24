@@ -1,0 +1,14 @@
+{
+	"category" : "JSONExtensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OrderedJsonObject",
+	"pools" : [
+		 ],
+	"super" : "OrderPreservingDictionary",
+	"type" : "variable" }

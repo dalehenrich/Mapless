@@ -1,4 +1,4 @@
 actions
 run
 
-	self runPrintingOn: Transcript 
+	self runPrintingOn: Transcript

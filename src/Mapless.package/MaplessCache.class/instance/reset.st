@@ -1,4 +1,4 @@
 actions
 reset
 
-	self initializeModels 
+	self initializeModels
