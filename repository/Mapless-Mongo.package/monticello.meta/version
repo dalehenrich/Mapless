@@ -1,0 +1,1 @@
+(name 'Mapless-Mongo-dkh.1' message 'repackage Mapless into following packages: - Mapless-Core- Mapless-GemStone- Mapless-Mongo- Mapless-Redis- Mapless-Tests-Core- Mapless-Tests-GemStone- Mapless-Tests-Mongo- Mapless-Tests-Redis' id '8ca36842-1e75-4e91-b184-661764a79438' date '01/24/2015' time '10:27:04' author 'dkh' ancestors () stepChildren ())

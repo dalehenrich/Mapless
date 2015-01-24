@@ -1,0 +1,14 @@
+{
+	"category" : "Mapless-Tests-Redis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pool" ],
+	"name" : "MaplessRedisTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

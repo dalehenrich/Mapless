@@ -1,0 +1,14 @@
+{
+	"category" : "Mapless-Tests-Redis",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MaplessRedisDummyTag",
+	"pools" : [
+		 ],
+	"super" : "MaplessRedis",
+	"type" : "normal" }
