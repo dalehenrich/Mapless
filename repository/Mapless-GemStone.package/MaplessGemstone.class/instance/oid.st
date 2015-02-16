@@ -1,4 +1,3 @@
 accessing
 oid
-
-	^ self data at: '_id'
+  ^ self data at: 'oid'

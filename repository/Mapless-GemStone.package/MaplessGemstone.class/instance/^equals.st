@@ -1,4 +1,3 @@
 testing
 = other
-
-	^self oid = other oid
+  ^ other ~~ nil and: [ self oid = other oid ]

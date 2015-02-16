@@ -1,7 +1,5 @@
 actions
 ensureOID
-
-	super ensureId.
-	
-	self hasOID ifFalse:[
-		self data at: '_id' put: self id]
+  super ensureId.
+  self hasOID
+    ifFalse: [ self data at: 'oid' put: self id ]

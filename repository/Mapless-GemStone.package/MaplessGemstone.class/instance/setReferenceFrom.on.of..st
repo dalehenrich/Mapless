@@ -11,4 +11,4 @@ setReferenceFrom: aString on: aKey of: aJSONObject
 	jsonObject modelClass notNil]]) ifTrue:[ 
 		 aJSONObject 
 			at: aKey 
-			put: ( MaplessReference fromJSONObject: jsonObject ) ] 
+			put: ( MaplessReference fromJSONObject: jsonObject ) ]

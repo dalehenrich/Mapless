@@ -10,4 +10,4 @@ makeReferenceFrom: aJSONString
 	jsonObject oid notNil and:[
 	jsonObject modelClass notNil]]) 
 		ifTrue:[ MaplessReference fromJSONObject: jsonObject ]
-		ifFalse:[ nil ] 
+		ifFalse:[ nil ]
