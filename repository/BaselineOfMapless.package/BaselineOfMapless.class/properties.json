@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMapless",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 01/24/2015 08:27",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMapless",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

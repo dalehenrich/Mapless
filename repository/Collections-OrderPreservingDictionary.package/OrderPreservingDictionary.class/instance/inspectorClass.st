@@ -1,0 +1,3 @@
+inspecting
+inspectorClass
+	^ DictionaryInspector
