@@ -5,4 +5,3 @@ initializeOn: aJsonObject
 	super initializeOn: aJsonObject.
 
 	self setSubModelsAndReferences
-	

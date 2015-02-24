@@ -1,4 +1,3 @@
 other
 createDatabaseNamed: aString ifPresent: aBlock
-
-  self addDatabase: (MaplessGemstoneDatabase named: aString) ifPresent: aBlock
+  self addDatabase: (MaplessGemStoneDatabase named: aString) ifPresent: aBlock

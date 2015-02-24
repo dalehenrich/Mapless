@@ -1,3 +1,4 @@
 initialization
 initializeClientsMutex
-  ^ clientsMutex := TransientSemaphore forMutualExclusion
+
+	^ clientsMutex := Semaphore forMutualExclusion

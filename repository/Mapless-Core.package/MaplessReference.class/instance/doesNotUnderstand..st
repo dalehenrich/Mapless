@@ -5,4 +5,4 @@ doesNotUnderstand: aMessage
 		
 	^ self model 
 		perform: aMessage 
-		selector withArguments: aMessage arguments 	
+		selector withArguments: aMessage arguments

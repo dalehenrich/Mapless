@@ -7,5 +7,3 @@ doesNotUnderstand: aMessage
 		ifTrue: [key := key allButLast asSymbol.
 				self at: key put: aMessage arguments first]
 		ifFalse: [super doesNotUnderstand: aMessage]
-				
-	

@@ -9,4 +9,3 @@ find: someConditions limit: toHowManyResults
 	^ result isNil
 		ifTrue: [ nil ]
 		ifFalse: [ self fromJSONObject: result asJsonObject ]
-		

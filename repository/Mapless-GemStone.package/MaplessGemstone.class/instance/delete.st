@@ -6,4 +6,4 @@ delete
 	
 	self beDeleted; save.
 	
-	self onDeleted 
+	self onDeleted

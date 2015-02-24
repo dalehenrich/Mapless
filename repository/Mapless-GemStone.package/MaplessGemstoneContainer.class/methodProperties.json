@@ -6,7 +6,7 @@
 	"instance" : {
 		"addCollection:" : "SebastianHeidbrink 10/18/2014 04:34",
 		"addDatabase:ifPresent:" : "SebastianHeidbrink 10/18/2014 04:34",
-		"createDatabaseNamed:ifPresent:" : "SebastianHeidbrink 10/18/2014 05:06",
+		"createDatabaseNamed:ifPresent:" : "jupiter 02/24/2015 00:12",
 		"databaseAt:" : "SebastianHeidbrink 10/18/2014 05:02",
 		"databaseAt:do:" : "sebastianheidbrink 10/18/2014 23:00",
 		"databaseNames" : "SebastianHeidbrink 10/18/2014 04:34",

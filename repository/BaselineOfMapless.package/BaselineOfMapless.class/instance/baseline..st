@@ -6,7 +6,13 @@ baseline: spec
     do: [ 
       spec
         package: 'Mapless-Core'
-          with: [ spec requires: #('JSON' 'JSONExtensions') ];
+          with: [ 
+              spec
+                requires:
+                  #('Mapless-Models' 'Mapless-Errors' 'Mapless-Repositories' 'JSON' 'JSONExtensions') ];
+        package: 'Mapless-Models' with: [ spec requires: #() ];
+        package: 'Mapless-Errors' with: [ spec requires: #() ];
+        package: 'Mapless-Repositories' with: [ spec requires: #() ];
         package: 'Mapless-Tests-Core'
           with: [ spec requires: #('Mapless-Core') ];
         package: 'Mapless-Mongo' with: [ spec requires: #('Mapless-Core') ];
