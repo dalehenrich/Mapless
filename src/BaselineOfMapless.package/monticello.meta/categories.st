@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfMapless!
+SystemOrganization addCategory: #'BaselineOfMapless'!
