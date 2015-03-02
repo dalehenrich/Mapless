@@ -13,8 +13,9 @@ baselineCommon: spec
         package: 'JSONExtensions'
         with: [ 
           spec
+            requires: #('JSON' 'Collections-OrderPreservingDictionary');
             repository:
-              'http://smalltalkhub.com/mc/sebastianconcept/SASExtensions/main' ].
+                'http://smalltalkhub.com/mc/sebastianconcept/SASExtensions/main' ].
       spec package: 'ConfigurationFiles'.
       spec
         package: 'Mapless-Core'
@@ -29,8 +30,7 @@ baselineCommon: spec
           with: [ spec requires: #('Mapless-Core') ];
         package: 'Mapless-Tests-Core'
           with: [ spec requires: #('Mapless-Core') ];
-        package: 'JSONExtensions'
-          with: [ spec requires: #('JSON' 'Collections-OrderPreservingDictionary') ].
+        yourself.
       spec
         group: 'default' with: #('all');
         group: 'all' with: #('Core');
